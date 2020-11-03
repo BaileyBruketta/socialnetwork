@@ -1,0 +1,32 @@
+.post-container{
+	background-color:rgba(66, 104, 123, 0.3);
+	Color: black;
+	border: 1px solid rgba(0,0,0,0);
+}
+
+.post-timestamp{
+	font-size: 12px;
+	display: grid;
+	gid-gap: 1rem;
+	grid-template-columns:repeat(6,250);
+	grid-template-rows:repeat(1,250);
+}
+.post-name{
+	grid-column:1/1;
+}
+.post-date{
+	grid-column:7/7;
+}
+
+.post-content{
+	font-size: 20px;
+}
+
+.post-stats{
+	font-size: 12px;
+}
+
+body{
+	background-color:rgba(239,239,246,.8);
+}
+

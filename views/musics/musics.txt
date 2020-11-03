@@ -1,0 +1,4 @@
+<body>
+<%- include('../partials/NavBar') %>
+<h1><center>Music</center></h1>
+<link href="css/PostsStylesheet.css" rel="stylesheet" type="text/css">

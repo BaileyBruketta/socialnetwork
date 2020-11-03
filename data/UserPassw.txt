@@ -1,0 +1,4 @@
+admin,supergood,0
+fakefake&fmail.org,badpass,1
+exdIt@Gg04.com,kkLimernsis,2
+hi,hi,3

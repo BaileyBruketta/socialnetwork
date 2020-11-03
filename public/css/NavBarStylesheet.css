@@ -1,0 +1,25 @@
+.navbar-container{
+	display: grid;
+	grid-gap: 1rem;
+	grid-template-columns:repeat(4,250);
+	grid-template-rows:repeat(4,auto);
+	margin-right:10%;
+	margin-left: 10%;
+	padding: 10x;
+}
+.navbar-item1{
+	text-align:center;
+	grid-column:1/1;
+}
+.navbar-item2{
+	text-align:center;
+	grid-column:2/2;
+}
+.navbar-item3{
+	text-align:center;
+	grid-column:3/3;
+}
+.navbar-item4{
+	text-align:center;
+	grid-column:4/4;
+}
