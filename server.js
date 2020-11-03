@@ -1,6 +1,6 @@
 const express = require('express');
 var ejs = require('ejs');
-const port = 3000;
+const port = process.env.PORT || 5000
 const app = express();
 var path = require('path');
 var session = require('express-session');
